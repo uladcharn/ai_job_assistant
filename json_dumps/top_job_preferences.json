@@ -1,0 +1,92 @@
+[
+    {
+        "title": "Customer Success Data Analyst",
+        "location": "Denver",
+        "company_type": "Startup",
+        "domain": "SaaS",
+        "salary": 95000,
+        "experience": 2,
+        "Resemblance": "5 of 10"
+    },
+    {
+        "title": "Energy Data Analyst",
+        "location": "Denver",
+        "company_type": "Mid-size",
+        "domain": "Energy",
+        "salary": 102000,
+        "experience": 3,
+        "Resemblance": "4 of 10"
+    },
+    {
+        "title": "Sustainability Data Analyst",
+        "location": "Portland",
+        "company_type": "Mid-size",
+        "domain": "Energy",
+        "salary": 99000,
+        "experience": 3,
+        "Resemblance": "4 of 10"
+    },
+    {
+        "title": "NLP Research Scientist",
+        "location": "San Jose",
+        "company_type": "Large",
+        "domain": "AI",
+        "salary": 155000,
+        "experience": 6,
+        "Resemblance": "4 of 10"
+    },
+    {
+        "title": "Data Science Manager",
+        "location": "San Francisco",
+        "company_type": "Enterprise",
+        "domain": "Retail",
+        "salary": 145000,
+        "experience": 8,
+        "Resemblance": "4 of 10"
+    },
+    {
+        "title": "Business Intelligence Analyst",
+        "location": "Atlanta",
+        "company_type": "Large",
+        "domain": "Finance",
+        "salary": 100000,
+        "experience": 2,
+        "Resemblance": "3 of 10"
+    },
+    {
+        "title": "Data Privacy Officer",
+        "location": "Remote",
+        "company_type": "Large",
+        "domain": "Healthcare",
+        "salary": 150000,
+        "experience": 7,
+        "Resemblance": "3 of 10"
+    },
+    {
+        "title": "Healthcare Data Analyst",
+        "location": "Raleigh",
+        "company_type": "Large",
+        "domain": "Healthcare",
+        "salary": 105000,
+        "experience": 4,
+        "Resemblance": "3 of 10"
+    },
+    {
+        "title": "Data Visualization Engineer",
+        "location": "Remote",
+        "company_type": "Startup",
+        "domain": "Finance",
+        "salary": 110000,
+        "experience": 2,
+        "Resemblance": "3 of 10"
+    },
+    {
+        "title": "Customer Insights Manager",
+        "location": "San Diego",
+        "company_type": "Large",
+        "domain": "Retail",
+        "salary": 125000,
+        "experience": 5,
+        "Resemblance": "3 of 10"
+    }
+]

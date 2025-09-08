@@ -1,0 +1,24 @@
+{
+    "Role": [
+        "Data Analyst"
+    ],
+    "Salary": [
+        "80,000-110,000"
+    ],
+    "Experience": [
+        "0-10"
+    ],
+    "Location": [
+        "San Francisco",
+        "New York City"
+    ],
+    "Domain": [
+        "Data Analysis"
+    ],
+    "Company Type": [
+        "Startup",
+        "Mid-size",
+        "Large",
+        "Small Business"
+    ]
+}
